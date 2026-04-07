@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Rakib Hassan
-**A passionate 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 || HTML • CSS • Tailwind CSS • Desy ui • JavaScript • React.js • Responsive Web Desig  || from BANGLADESH**
+**A passionate 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 || HTML • CSS • Tailwind CSS • Desy ui • JavaScript • React.js • Responsive Web Design  || from BANGLADESH**
 
 
 
