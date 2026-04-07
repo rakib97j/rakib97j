@@ -17,7 +17,7 @@
 🔭 I’m currently working on: Portfolio & JS Projects  <br>🤝 I’m looking to collaborate on: Web Development Projects  <br>🛠  I’m looking for help with: Advanced JavaScript  <br>🌱 I’m currently learning: React.js  <br>💬 Ask me about: HTML, CSS, JavaScript  <br>⚡ Fun fact: I love designing clean UI
 
 <!-- GIF-->
-![200](https://github.com/user-attachments/assets/c5691014-9979-4db7-aedb-8c129e97cc2f)
+![200](https://github.com/user-attachments/assets/c5691014-9979-4db7-aedb-8c129e97cc2f)   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4997&pause=500&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+RAKIBUL+HASSAN...;Front-End+Developer+from+Bangladesh;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 
