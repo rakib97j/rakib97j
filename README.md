@@ -52,9 +52,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rakib97j&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rakib97j&theme=dark&hide_border=false)<br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakib97j&theme=github-dark)
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib97j&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakib97j&theme=github-dark)
+
