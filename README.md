@@ -4,25 +4,19 @@
 **A passionate 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 || HTML • CSS • Tailwind CSS • Desy ui • JavaScript • React.js • Responsive Web Design  || from BANGLADESH**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-🔭 I’m currently working on: Portfolio & JS Projects  <br>🤝 I’m looking to collaborate on: Web Development Projects  <br>🛠  I’m looking for help with: Advanced JavaScript  <br>🌱 I’m currently learning: React.js  <br>💬 Ask me about: HTML, CSS, JavaScript  <br>⚡ Fun fact: I love designing clean UI
-
-
-
-
-
-
+```javascript
+const rakibHassan = {
+  pronouns: "he/him",
+  code: ["JavaScript", "PHP", "Laravel", "MySQL" , "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Next", "Node.js", "Git", "Git Hub"],
+  techCommunities: {
+    institute: "Barguna Polytechnic Institute",
+    speaks: ["Bengali", "English"],
+    learning: "MERN Stack Development"
+  },
+  challenge: "MERN Stack Developer in 5 Months"
+}
+```
 
 
 
