@@ -5,7 +5,7 @@
 
 
 ```javascript
-const rakibHassan = {
+const mdRakibHassanRakib = {
   pronouns: "he/him",
   code: ["JavaScript", "PHP", "Laravel", "MySQL" , "HTML", "CSS", "Tailwind CSS"],
   tools: ["React", "Next", "Node.js", "Git", "Git Hub"],
