@@ -1,4 +1,4 @@
-#   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4997&pause=500&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+RAKIBUL+HASSAN...;Front-End+Developer+from+Bangladesh;Nice+to+meet+you!)](https://git.io/typing-svg)
+#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="50px" width="50px">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4997&pause=500&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+RAKIBUL+HASSAN...;Front-End+Developer+from+Bangladesh;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 
 **A passionate 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 || HTML • CSS • Tailwind CSS • Desy ui • JavaScript • React.js • Responsive Web Design  || from BANGLADESH**
@@ -24,11 +24,13 @@ const mdRakibHassanRakib = {
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rakib97j) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rakib97j) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakib97j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakib97j) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rakib97jj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibulhassanrakib559@gmail.com) 
 
 
-<!-- Snake Game Repo View -->
+<!--  Game Repo View -->
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+
+
+<p align="center " >
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 
 
@@ -46,7 +48,10 @@ const mdRakibHassanRakib = {
 
 
 # 📊 GitHub Stats:
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rakib97j&theme=github-dark)
+
+
 
 
 
@@ -54,4 +59,6 @@ const mdRakibHassanRakib = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib97j&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
