@@ -135,6 +135,11 @@ const mdRakibHassanRakib = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib97j&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<div align="center" >  
+<img src="https://streak-stats.demolab.com/?user=rakib97j&theme=dark&hide_border=true&cache_seconds=86400" alt="rakib97j's GitHub Streak" width="70%" />
+</div>
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
