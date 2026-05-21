@@ -1,19 +1,24 @@
-#  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="50px" width="50px">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4997&pause=500&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;I+am+RAKIBUL+HASSAN...;Front-End+Developer+from+Bangladesh;Nice+to+meet+you!)](https://git.io/typing-svg)
-
-
-**A passionate 𝗙𝗥𝗢𝗡𝗧-𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 || HTML • CSS • Tailwind CSS • Desy ui • JavaScript • React.js • Responsive Web Design  || from BANGLADESH**
-
+# <div align="center">  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=4000&pause=800&color=39FF14&center=true&vCenter=true&width=1200&height=100&lines=HELLO+THERE!+👋;THIS+IS+RAKIB+HASSAN;FRONTEND+DEVELOPER;REACT+•+NEXT.JS+•+TAILWIND;WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
+ </div>
 
 
 
 
 
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/ad5f410d-fc56-4237-b865-60f4c28a1a0a" />
 
 
 
 
 
 
+
+
+
+
+
+
+## 🌐 Introduction:
 
 ```javascript
 const mdRakibHassanRakib = {
