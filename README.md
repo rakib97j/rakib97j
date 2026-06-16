@@ -27,7 +27,7 @@ const mdRakibHassanRakib = {
   tools: ["React", "Next", "Node.js", "Git", "Git Hub"],
   techCommunities: {
     institute: "Barguna Polytechnic Institute",
-    speaks: ["Bengali", "English"],
+    speaks: ["Bangla", "English"],
     learning: "MERN Stack Development"
   },
   challenge: "MERN Stack Developer in 5 Months"
