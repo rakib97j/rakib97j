@@ -38,7 +38,7 @@ const mdRakibHassan = {
    ],
 
    techStack: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS" , "Bootstrap" ],
     backend: ["Node.js", "Express.js", "MongoDB"],
     tools: ["Git", "GitHub", "VS Code"]
    },
