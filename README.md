@@ -17,7 +17,7 @@
 
 
 
-<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
+
 
 <!-- <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/ad5f410d-fc56-4237-b865-60f4c28a1a0a" /> -->
 
@@ -26,19 +26,32 @@
 ## 🌐 Introduction:
 
 ```javascript
-const mdRakibHassanRakib = {
-  pronouns: "he/him",
-  code: ["JavaScript", "PHP", "Laravel", "MySQL" , "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "Next", "Node.js", "Git", "Git Hub"],
-  techCommunities: {
-    institute: "Barguna Polytechnic Institute",
-    speaks: ["Bangla", "English"],
-    learning: "MERN Stack Development"
-  },
-  challenge: "MERN Stack Developer in 5 Months"
-}
+const mdRakibHassan = {
+
+   name: "RakibUl Hassan Rakib",
+   title: "Frontend Developer | MERN Stack Learner",
+
+   about: [
+    "Passionate about building modern web applications",
+    "Focused on writing clean and maintainable code",
+    "Continuously learning and improving development skills"
+   ],
+
+   techStack: {
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    tools: ["Git", "GitHub", "VS Code"]
+   },
+ 
+   education: "Computer Technology, Barguna Polytechnic Institute",
+   languages: ["Bangla", "English"],
+   currentlyLearning: "MERN Stack",
+
+   challenge: "Becoming a highly skilled Software Developer and creating impactful digital solutions."
+};
 ```
 
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"/>
 
 
 ## 🌐 Socials:
